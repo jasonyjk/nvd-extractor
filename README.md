@@ -4,7 +4,7 @@
 This script helps to fetch vulnerability data (Common Vulnerabilities and Exposures - CVEs) from the National Vulnerability Database (NVD) using their JSON API. The fetched data is processed and saved to an Excel spreadsheet for easy reference.
 
 **Notes:**
-1) Do not modify any part of the source codes as it is essential for the API requests.
+1) Do not modify any part of the source codes except for the API KEY as it is essential for the API requests.
 2) Ensure you have a stable internet connection while running the script.
 3) Avoid making too many rapid requests to the NVD API to prevent potential rate limiting or bans.
 
